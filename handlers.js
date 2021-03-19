@@ -6,7 +6,7 @@ const input1 = document.getElementById('input-1');
 const input2 = document.getElementById('input-2');
 const answer = document.getElementById('answer');
 const dropdown = document.getElementById('dropdown');
-const clear = document.getElementById('clear');
+// const clear = document.getElementById('clear');
 
 // Creat funcs to export
 export function handleClick() {

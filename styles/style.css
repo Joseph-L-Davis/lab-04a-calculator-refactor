@@ -32,12 +32,18 @@ section {
 header {
     grid-column-start: 2;
     grid-row-start: 2;
-    width: 100%;
+    max-width: 765px;
     height: 80px;
     font-size: 2em;
     position: relative;
-    left: 30px;
+    /* left: 30px; */
 
+}
+
+header div {
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 .input-1 {
