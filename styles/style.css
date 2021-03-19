@@ -62,6 +62,12 @@ header {
     justify-content: center;
 }
 
+#dropdown {
+    width: 50px;
+    height: 30px;
+    font-size: 1.25em;
+}
+
 .buttons {
     color: black;
     width: 50px;
@@ -108,8 +114,8 @@ header {
 
 .equals {
     margin: 20px;
-    font-family: "Space Mono",
-        sans-serif;
+    width: 50px;
+    height: 30px;
     font-size: 1.25em;
 }
 
